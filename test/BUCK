@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'size',
+  srcs = [
+    'size.cpp',
+  ],
+  deps = [
+    '//:ublas',
+  ],
+)
