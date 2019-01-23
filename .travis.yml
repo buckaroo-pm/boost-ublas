@@ -34,4 +34,3 @@ before_install:
 script:
   - ./buckaroo-client install
   - buck build -c ui.superconsole=DISABLED //:ublas
-  - buck run -c ui.superconsole=DISABLED //test:size
