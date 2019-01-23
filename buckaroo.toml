@@ -9,10 +9,6 @@ package = "github.com/buckaroo-pm/boost-core"
 version = "branch=master"
 
 [[dependency]]
-package = "github.com/buckaroo-pm/boost-math"
-version = "branch=master"
-
-[[dependency]]
 package = "github.com/buckaroo-pm/boost-mpl"
 version = "branch=master"
 
